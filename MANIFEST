@@ -1,0 +1,12 @@
+Changes
+Makefile.PL
+MANIFEST
+PolygonXS.xs
+ppport.h
+functions.c
+functions.h
+gpc.c
+gpc.h
+README
+t/Math-Geometry-Planar-GPC-PolygonXS.t
+lib/Math/Geometry/Planar/GPC/PolygonXS.pm
