@@ -2,7 +2,13 @@ Perl-GPCPolygon-XS-
 ===================
 
 This is a modification of Math::Geometry::Planar::GPC::Polygon without using Inline::C
+
 Author of Math::Geometry::Planar::GPC::Polygon - Eric L. Wilhelm
+
+Modified by Alexei Kasatkin ( removed Inline::C dependence, updated GPC, introduced XS-file )
+3 functions that use non-Perl types were stripped to simplify conversion.
+
+BE CAREFUL AND CHECK FOR MEMORY LEAKS - I HAVE NO IDEA ABOUT PERL MEMORY MANAGEMENT :)
 
     This module and its C source code (functions.c) are distributed under
     the same terms as Perl. See the Perl source package for details.
