@@ -1,6 +1,6 @@
 package Math::Geometry::Planar::GPC::PolygonXS;
 
-use 5.016003;
+use 5.012000;
 use strict;
 use warnings;
 
