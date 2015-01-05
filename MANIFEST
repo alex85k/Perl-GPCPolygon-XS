@@ -9,4 +9,6 @@ gpc.c
 gpc.h
 README
 t/Math-Geometry-Planar-GPC-PolygonXS.t
+test_data/clipfile
+test_data/subjfile
 lib/Math/Geometry/Planar/GPC/PolygonXS.pm
